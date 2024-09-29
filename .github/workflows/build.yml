@@ -8,7 +8,7 @@ on:
     branches: ["main"]
 
 env:
-  SERVER_IMAGE_NAME: astra_agents_server
+  SERVER_IMAGE_NAME: python_aiohttp_server
 
 jobs:
   build:
